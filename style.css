@@ -3,3 +3,7 @@ body {
   height: 100%;
   margin: 0;
 }
+#featured-property {
+background-color: rgb(204, 198, 86);
+font-style: italic;
+}
